@@ -1,0 +1,1 @@
+//hwo a user looks like what will be the user scheme in the database
