@@ -36,7 +36,7 @@ const userSchema = new mongoose.Schema({
             type: Date, // Date when the investment was made
             default: Date.now
         }
-    }],
+    }], 
     createdAt: {
         type: Date,
         default: Date.now
